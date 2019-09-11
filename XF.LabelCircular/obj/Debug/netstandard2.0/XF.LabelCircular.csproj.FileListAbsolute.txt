@@ -1,0 +1,12 @@
+D:\GitHub\XF.LabelCircular\XF.LabelCircular\XF.LabelCircular\bin\Debug\netstandard2.0\XF.LabelCircular.deps.json
+D:\GitHub\XF.LabelCircular\XF.LabelCircular\XF.LabelCircular\bin\Debug\netstandard2.0\XF.LabelCircular.dll
+D:\GitHub\XF.LabelCircular\XF.LabelCircular\XF.LabelCircular\bin\Debug\netstandard2.0\XF.LabelCircular.pdb
+D:\GitHub\XF.LabelCircular\XF.LabelCircular\XF.LabelCircular\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GitHub\XF.LabelCircular\XF.LabelCircular\XF.LabelCircular\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GitHub\XF.LabelCircular\XF.LabelCircular\XF.LabelCircular\obj\Debug\netstandard2.0\XF.LabelCircular.csproj.CoreCompileInputs.cache
+D:\GitHub\XF.LabelCircular\XF.LabelCircular\XF.LabelCircular\obj\Debug\netstandard2.0\XF.LabelCircular.AssemblyInfoInputs.cache
+D:\GitHub\XF.LabelCircular\XF.LabelCircular\XF.LabelCircular\obj\Debug\netstandard2.0\XF.LabelCircular.AssemblyInfo.cs
+D:\GitHub\XF.LabelCircular\XF.LabelCircular\XF.LabelCircular\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GitHub\XF.LabelCircular\XF.LabelCircular\XF.LabelCircular\obj\Debug\netstandard2.0\XF.LabelCircular.dll
+D:\GitHub\XF.LabelCircular\XF.LabelCircular\XF.LabelCircular\obj\Debug\netstandard2.0\XF.LabelCircular.pdb
+D:\GitHub\XF.LabelCircular\XF.LabelCircular\XF.LabelCircular\obj\Debug\netstandard2.0\XF.LabelCircular.csprojAssemblyReference.cache
